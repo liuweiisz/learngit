@@ -1,2 +1,4 @@
 test
-add
+add remove
+Git is free
+Git is no free
